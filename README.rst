@@ -1,7 +1,7 @@
 Last.fm collage generator web
 ================
 
-.. |full_logo| image:: https://github.com/musicbucket/lastfmcollagegenerator-web/blob/main/images/logos/collagegenerator_letter_logo.png?raw=True
+.. |full_logo| image:: https://github.com/MusicBucket/lastfmcollagegenerator-web/blob/main/images/collagegenerator_letter_logo.png?raw=True
 
 |full_logo|
 
@@ -13,8 +13,8 @@ A Web application to generate Last.fm collages.
 Screenshots
 ~~~~~~~~~~~
 
-.. |screenshot_1| image:: https://github.com/musicbucket/lastfmcollagegenerator-web/blob/master/images/screenshot.jpg?raw=True
-.. |screenshot_2| image:: https://github.com/musicbucket/lastfmcollagegenerator-web/blob/master/images/collage.jpeg?raw=True
+.. |screenshot_1| image:: https://github.com/MusicBucket/lastfmcollagegenerator-web/blob/main/images/screenshot.png?raw=True
+.. |screenshot_2| image:: https://github.com/MusicBucket/lastfmcollagegenerator-web/blob/main/images/collage.jpeg?raw=True
 
 ================================  ================================
 |screenshot_1|                    |screenshot_2|
