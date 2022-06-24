@@ -10,6 +10,9 @@ About
 
 A Web application to generate Last.fm collages.
 
+This application uses the `lastfm-collage-generator <https://github.com/paurieraf/lastfm-collage-generator>`_
+(available in `PyPi <https://pypi.org/project/lastfmcollagegenerator/>`_) Python library, also created by myself.
+
 Screenshots
 ~~~~~~~~~~~
 
